@@ -8,12 +8,12 @@ If you would like to help translate Husqy, please view the translations reposito
 
 ## CHANGELOG
 
-The most up-to-date version of the Husqy Changelog, also available at: https://husqy.xyz/changelog/
+The most up-to-date version of the Husqy Changelog.
 
 ## privacy-policy
 
-The most up-to-date version of the Husqy Privacy Policy, also available at: https://husqy.xyz/privacy/
+The most up-to-date version of the Husqy Privacy Policy.
 
 ## terms-of-service
 
-The most up-to-date version of the Husqy Terms of Service, also available at: https://husqy.xyz/terms-of-service/
+The most up-to-date version of the Husqy Terms of Service.
