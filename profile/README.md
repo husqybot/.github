@@ -1,6 +1,8 @@
 # Husqy
 
 Visit our website: https://husqy.xyz/
+Visit our documentation: https://docs.husqy.xyz/
+Our API: https://api.husqy.xyz/
 
 ## Translations
 
