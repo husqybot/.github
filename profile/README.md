@@ -6,9 +6,7 @@ Take control of your Discord server. With the most advanced bot you can add! Hus
 
 Husqy has different features to help you take control of your Discord server, some base features include:
 
-- **Audio**: Audio playback in voice channels;
 - **Games**: Different small in-channel games;
-- **Moderation**: Simple moderation features;
 - **Utils**: Utilities for configuring Husqy or other tools;
 
 Husqy also provides modules for you to enable and configure on demand, so it fit your servers needs:
